@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'features/home/presentation/views/home_view.dart';
 
-main() {
+void main() {
   runApp(const NotesApp());
 }
 
